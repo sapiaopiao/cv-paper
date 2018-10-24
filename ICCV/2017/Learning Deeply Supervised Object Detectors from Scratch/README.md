@@ -3,9 +3,8 @@
 Paper URL: https://arxiv.org/pdf/1708.01241.pdf <br>
 code  URL: https://github.com/szq0214/DSOD <br>
 
-## High light
+## High lights
+1.
 
-
-
-
+## Main contributions
 
