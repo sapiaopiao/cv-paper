@@ -1,2 +1,3 @@
-# cv-paper
-paper-reading
+# cv paper
+Paper reading notes
+
