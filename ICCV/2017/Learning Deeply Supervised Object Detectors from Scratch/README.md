@@ -8,3 +8,4 @@ code  URL: https://github.com/szq0214/DSOD <br>
 
 ## Main contributions
 
+ ![image](https://github.com/sapiaopiao/cv-paper/blob/master/ICCV/2017/Learning%20Deeply%20Supervised%20Object%20Detectors%20from%20Scratch/images/f1.png)
